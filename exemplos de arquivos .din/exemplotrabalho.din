@@ -1,0 +1,6 @@
+2 408ed4  //Busca instrução no endereço 408ed4 da memória
+0 10019d94 //Leitura de dado no endereço 10019d94
+2 408ed8 //Busca de instrução no endereço 408ed8 da memória
+1 10019d88 //Escrita de dado no endereço 10019d88
+2 408edc //Busca de instrução no endereço 408edc
+0 10013220 //Leitura de dado no endereço 10013220

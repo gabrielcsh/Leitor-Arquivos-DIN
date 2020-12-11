@@ -1,0 +1,11 @@
+2 3e2321234f
+        2 3e2321234f
+Linha 1: Formato correto de representação, 2: formato não recomendado mas interpretável, linha 3 para frente: formatos inválidos.
+23e2321234f
+2
+3e2321234f
+3 e2321234f
+
+2 3e2321234f 3e2321234f
+Note que a ultima linha mesmo quando com espaços adicionados é desconsiderada como erro porque ela é interpretada como fim do programa.
+          
